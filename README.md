@@ -4,7 +4,7 @@ Data Scientist / Audio Enthusiast
 
 🔢 ML stack
 
-Python, PyTorch, TensorFlow, GAN, Transformers, CNN, Wavelets, Curvelets, OpenCV
+Python, PyTorch, TensorFlow, GAN, Transformers, CNN, Wavelets (Curvelets, Countourlets, Shearlets etc), OpenCV
 
 💻 Backend stack
 
